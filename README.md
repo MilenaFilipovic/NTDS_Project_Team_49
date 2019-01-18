@@ -1,4 +1,4 @@
-# A Network Tour of Millenial Movies
+﻿# A Network Tour of Millenial Movies
 ## Project for the course A Network Tour of Data Science
 Github repository of the project done by a team of four students for *A Network Tour of Data Science* course (EE=558) given at *École polytechnique fédérale de Lausanne*. This readme contains the project abstract, list of required libraries for the correct execution, datasets that were used for project implementation and the different research questions and products that were analyzed. The code can be found in the Jupyter Notebooks of this repository, and the report is given in the *Project report.pdf*.
 
@@ -32,7 +32,7 @@ We used the following libraries for this project, with Python 3.6.6
 	re
 	io
     
-
+We also utilized these [libraries](https://github.com/mdeff/cnn_graph) for Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. 
 
 ## Abstract
 
@@ -61,6 +61,8 @@ The notebooks of the repository should be read in the following order:
 - `Data Exploitation - Spectral Graph Theory (Cast and Crew)` [notebook](https://github.com/MilenaFilipovic/NTDS_Project_Team_49/blob/master/Data%20Exploitation%20-%20Spectral%20Graph%20Theory%20(Cast%20and%20Crew).ipynb)
 
 - `Data Exploitation - Keyword co-occurrence graph` [notebook](https://github.com/MilenaFilipovic/NTDS_Project_Team_49/blob/master/Data%20Explotitation%20-%20Keyword%20co-occurrence%20graph.ipynb)
+
+- `Data Exploitation - CNNs` [notebook](https://github.com/MilenaFilipovic/NTDS_Project_Team_49/blob/master/Data%20Exploitation%20-%20CNNs.ipynb)
 
 - `Data Exploitation - Recommender Systems` [notebook](https://github.com/MilenaFilipovic/NTDS_Project_Team_49/blob/master/Data%20Exploitation%20-%20Recommender%20Systems.ipynb)
 
