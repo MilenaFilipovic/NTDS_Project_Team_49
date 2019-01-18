@@ -1,6 +1,6 @@
 ﻿# A Network Tour of Millenial Movies
 ## Project for the course A Network Tour of Data Science
-Github repository of the project done by a team of four students for *A Network Tour of Data Science* course (EE=558) given at *École polytechnique fédérale de Lausanne*. This readme contains the project abstract, list of required libraries for the correct execution, datasets that were used for project implementation and the different research questions and products that were analyzed. The code can be found in the Jupyter Notebooks of this repository, and the report is given in the *Project report.pdf*.
+Github repository of the project done by a team of four students for *A Network Tour of Data Science* course (EE=558) given at *École polytechnique fédérale de Lausanne*. This readme contains the project abstract, list of required libraries for the correct execution, datasets that were used for project implementation and the different research questions and products that were analyzed. The code can be found in the Jupyter Notebooks of this repository, and the report is given in the *Project Report.pdf*.
 
 ## Libraries used
 We used the following libraries for this project, with Python 3.6.6
@@ -76,14 +76,14 @@ Additionally, there is a `Gephi graph visualization` [notebook](https://github.c
 ## Authors
 
 * *Milena Filipović*
-* *Kristijan Lopatički*
+* *Kristijan Lopatichki*
 * *Jelena Malić*
 * *Davor Todorovski*
 
 
 ## License
 
-Copyright 2019 Milena Filipović, Kristijan Lopatički, Jelena Malić and Davor Todorovski
+Copyright 2019 Milena Filipović, Kristijan Lopatichki, Jelena Malić and Davor Todorovski
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
