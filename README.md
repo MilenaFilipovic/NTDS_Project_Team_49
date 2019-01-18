@@ -1,6 +1,6 @@
 ﻿# A Network Tour of Millenial Movies
 ## Project for the course A Network Tour of Data Science
-Github repository of the project done by a team of four students for *A Network Tour of Data Science* course (EE=558) given at *École polytechnique fédérale de Lausanne*. This readme contains the project abstract, list of required libraries for the correct execution, datasets that were used for project implementation and the different research questions and products that were analyzed. The code can be found in the Jupyter Notebooks of this repository, and the report is given in the *Project Report.pdf*.
+Github repository of the project done by a team of four students for *A Network Tour of Data Science* course (EE-558) given at *École polytechnique fédérale de Lausanne*. This readme contains the project abstract, list of required libraries for the correct execution, datasets that were used for project implementation and the different research questions and products that were analyzed. The code can be found in the Jupyter Notebooks of this repository, and the report is given in the *Project Report.pdf*.
 
 ## Libraries used
 We used the following libraries for this project, with Python 3.6.6
@@ -32,7 +32,7 @@ We used the following libraries for this project, with Python 3.6.6
 	re
 	io
     
-We also utilized these [libraries](https://github.com/mdeff/cnn_graph) for Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. 
+We also utilized [these libraries](https://github.com/mdeff/cnn_graph) for Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. 
 
 ## Abstract
 
