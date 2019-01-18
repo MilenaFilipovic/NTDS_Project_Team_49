@@ -8,29 +8,29 @@ We used the following libraries for this project, with Python 3.6.6
 
  Computational:
 
-    `numpy (as np)`
-    `pandas (pd)`
-    `networkx (nx)`
-	`scipy`
-	`sklearn`
-	`surprise`
-	`operator`
-	`collections`
-	`pandas_profiling`
+    numpy (as np)
+    pandas (pd)
+    networkx (nx)
+	scipy
+	sklearn
+	surprise
+	operator
+	collections
+	pandas_profiling
 
  Graphical:
 
-    `seaborn (as sns)`
-    `matplotlib (as plt)`
-	`IPython`
+    seaborn (as sns)
+    matplotlib (as plt)
+	IPython
 	
  Textual:
 
-    `json`
-    `base64`
-	`codecs`
-	`re`
-	`io`
+    json
+    base64
+	codecs
+	re
+	io
     
 
 
@@ -69,15 +69,15 @@ Additionally, there is a `Gephi graph visualization` [notebook](https://github.c
 
 ## Authors
 
-* *Milena Filipovi\'c*
-* *Kristijan Lopati\v cki*
-* *Jelena Mali\'c*
+* *Milena Filipović*
+* *Kristijan Lopatički*
+* *Jelena Malić*
 * *Davor Todorovski*
 
 
 ## License
 
-Copyright 2019 Milena Filipovi\'c, Kristijan Lopati\v cki, Jelena Mali\'c and Davor Todorovski
+Copyright 2019 Milena Filipović, Kristijan Lopatički, Jelena Malić and Davor Todorovski
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
