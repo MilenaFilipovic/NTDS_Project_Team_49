@@ -48,7 +48,11 @@ The `data` folder contains the subsampled data that was used for the implementat
 
 ## Research Questions
 
--
+- Can spectral clustering classify movie genres using the k-means algorithm? Can this technique be used in different graph settings, such as cast and crew co-occurence graph or movie keyword co-occurence graph?
+
+- Can the movie genre classificator be improved by using Convolutional Neural Networks on graphs with Fast Localized Spectral Filtering? If so, what is the gained result from this analysis?
+
+- Can we suggest movies to users by creating a movie recommendation engine?
 
 ## Structure of repo
 
